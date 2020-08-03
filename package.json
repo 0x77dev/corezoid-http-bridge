@@ -1,12 +1,12 @@
 {
-  "name": "corezoid-html",
+  "name": "@0x77/corezoid-html",
   "version": "0.0.0",
-  "description": "",
+  "description": "Reverse-Double Callback Corezoid Sync API",
   "main": "dist/index.js",
-  "author": "",
-  "license": "UNLICENSED",
+  "author": "Mikhail Marynenko <0x77dev@protonmail.com>",
+  "license": "MIT",
   "engines": {
-    "node": "^14.6.0"
+    "node": ">=10.0.0"
   },
   "scripts": {
     "build": "npm-run-all clean tsc",
