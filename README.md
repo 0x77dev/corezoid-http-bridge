@@ -12,3 +12,5 @@ Reverse-Double Callback Corezoid Sync API.
 
 ### Example 
 [Corezoid Hosted Page](https://corezoid-ssr-demo.herokuapp.com/779994/91adf00a06b602c1b883dd661e02c783f7b4f3b8/) and process that rendering that is here [Process Example](https://github.com/0x77dev/corezoid-http-bridge/blob/master/sample_process.json)
+
+[Corezoid >5.x process sample](https://github.com/0x77dev/corezoid-http-bridge/blob/master/sample_process.json)
